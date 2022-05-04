@@ -171,3 +171,4 @@ Transferring testing skills
 - [Notes](https://club.ministryoftesting.com/t/the-future-of-test-automation-with-alan-page/50830/2) and resources from one of the talks
 - [Ofthethree on Slack](https://oneofthethree.slack.com/join/shared_invite/enQtMzQ4NDAxNjE1OTg2LTExMzQwMmQ2NTBlYzcwYWI4Mjg3NjhmYThlYjdhZmIzZGNmM2MyMGNhNjExMGIwMmE2ODI2YjZmYzU2MmQ4NGQ#/shared-invite/email)
 - Article: [trends for the tester role](https://jlottosen.wordpress.com/2021/04/13/trends-for-the-tester-role/)
+- [Q&A](https://club.ministryoftesting.com/t/ask-alan-a-question-about-quality-without-qa/37289) With Alan Page
