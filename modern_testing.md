@@ -1,36 +1,25 @@
-# Ministry of Testing - Modern testing - WIP NOTES
+# Ministry of Testing - Modern testing - Notes
 
 ## Agile vs modern testing
 
 - Agile
-  - test specialist on feature team
-  - works primarily on testing tasks needed for feature / product quality
+  - test specialist on feature team working primarily on testing tasks needed for product quality
+
 - Modern
-  - Not necessarily a role (but often is the test specialist of the team)
+  - Not necessarily a dedicated role (but often is the test specialist of the team)
   - Data-driven and customer obsessed
   - Passionate about efficiency
 
-## Principles
+## One - business first
 
-1. Our priority is improving the business.
-2. We accelerate the team, and use models like Lean Thinking and the Theory of Constraints to help identify, prioritize and mitigate bottlenecks from the system.
-3. We are a force for continuous improvement, helping the team adapt and optimize in order to succeed, rather than providing a safety net to catch failures.
-4. We care deeply about the quality culture of our team, and we coach, lead, and nurture the team towards a more mature quality culture.
-5. We believe that the customer is the only one capable to judge and evaluate the quality of our product
-6. We use data extensively to deeply understand customer usage and then close the gaps between product hypotheses and business impact.
-7. We expand testing abilities and knowhow across the team; understanding that this may reduce (or eliminate) the need for a dedicated testing specialist
+`Our priority is improving the business.`
 
-## One - our priority is improving the business
+---
 
 Modern testing:
 
-- Be proactive
-- Ask: how can we do this better
-- Collaborate and help
-- Adapt
-- Listen to your Customers
-- Try new things
-- Focus on Problem Solving
+- Be proactive, Ask: how can we do this better, try new things and adapt
+- Listen to your Customers, focus on Problem Solving
 - Always test - right testing at the right time, focus on efficiency
 
 ### One - Reflect
@@ -39,48 +28,47 @@ Modern testing:
 - What are new things you can do to improve the business?
 - What will you try on your team?
 
-## Two - Accelerating the team
+## Two - accelerating the team
 
-Theory of constraints
+`We accelerate the team, and use models like Lean Thinking and the Theory of Constraints to help identify, prioritize and mitigate bottlenecks from the system.`
+
+---
+
+Focus on bottlenecks and constraints
 
 1. Identify constraints (bottlenecks)
 2. Fix them
 3. Measure and repeat (iterate)
 
-Lean software
-
-1. Eliminate waste
-2. Build quality in
-3. Create Knowledge
-4. Defer commitment
-5. Deliver fast
-6. Respect people
-7. Optimize the Whole
-
 ### Two - Reflect
 
 - Biggest bottleneck in your release cycle? how would you mitigate it?
-- List things that speed me up and slow me down
-- Where is your waste?
+- List things that speed and slow down the team
 - What activities in your release cycle are unnecessary or redundant?
 - What activities do you do that help the team move faster or work through bottlenecks?
 
 ## Three - Continuous improvement
 
-- Continuous improvement for people, process and tools
+`We are a force for continuous improvement, helping the team adapt and optimize in order to succeed, rather than providing a safety net to catch failures.`
+
+---
+
+- Continuous improvement for people, process and tools, always try new things
 - Kaizen (change for the better in japanese) - from lean manufacturing, constant reflection and review, communication is critical
 - Have good retros, assign action items to individuals, Reflect
-- Talk to people
-- Try things, then try more things
 - Use Scientific method: observe, question, hypothesis, prediction, measure, iterate
 
 ### Three - Reflect
 
 - What have you or your team done recently to improve?
 - What do you think the next improvement should be?
-- What do you think the other team members want to improve?
+- What do you think team members would want to improve?
 
 ## Four - The quality culture
+
+`We care deeply about the quality culture of our team, and we coach, lead, and nurture the team towards a more mature quality culture.`
+
+---
 
 Shared mindset that delivering high quality software to customers is our top priority, and that all of our practices support this effort.
 Put users first rather than focus on short term objectives
@@ -88,7 +76,7 @@ Put users first rather than focus on short term objectives
 Software is changing:
 
 - From multi year product cycles to shipping multiple times a day
-- From separate test teams to embedded testers on a dev team, or no testers at all
+- From separate test teams to embedded testers on a dev team, or no testers at all once the team is mature enough
 - From Testers unofficially owning quality to "everyone" owning quality
 
 Transition guide / Maturity model -> <http://bit.ly/QCTGuide>
@@ -101,11 +89,15 @@ List 1-3 reasons why you are well suited to lead the quality culture on your tea
 
 ## Five - The customer is king
 
+`We believe that the customer is the only one capable to judge and evaluate the quality of our product`
+
+---
+
 - You (dev team) are not the customer
 - Customers don't want or care about software, they want their problems solved
 - We want customer to tell us if we are solving their problem
 - Balance fallacy of now (get something done now even if it's not ready) vs failure to launch -> deliver on the right time
-- Feedback: talk to them, forums, data
+- Feedback: talk to them, forums, gather data
 
 ## Five - Reflect
 
@@ -113,6 +105,10 @@ List 1-3 reasons why you are well suited to lead the quality culture on your tea
 - What can you do to get more feedback?
 
 ## Six - Data
+
+`We use data extensively to deeply understand customer usage and then close the gaps between product hypotheses and business impact.`
+
+---
 
 Use data for:
 
@@ -142,6 +138,10 @@ Data collection
 - What is some feedback that you could have discovered sooner by using data?
 
 ## Seven - Everyone can test
+
+`We expand testing abilities and knowhow across the team; understanding that this may reduce (or eliminate) the need for a dedicated testing specialist`
+
+---
 
 Elephant in the room: this may reduce or eliminate the need of dedicated testers -> only when the right level of maturity is reached
 
