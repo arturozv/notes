@@ -1,4 +1,4 @@
-# Ministry of Testing - Modern testing - Notes
+# Ministry of Testing - Modern testing - WIP NOTES
 
 ## Agile vs modern testing
 
@@ -94,10 +94,8 @@ List 1-3 reasons why you are well suited to lead the quality culture on your tea
 ---
 
 - You (dev team) are not the customer
-- Customers don't want or care about software, they want their problems solved
-- We want customer to tell us if we are solving their problem
-- Balance fallacy of now (get something done now even if it's not ready) vs failure to launch -> deliver on the right time
-- Feedback: talk to them, forums, gather data
+- Customers don't want or care about software, they want their problems solved and only they can tell if that's achieved
+- Feedback: automated: gather data, manual: talk to them, forums, surveys, etc.
 
 ## Five - Reflect
 
@@ -112,8 +110,8 @@ List 1-3 reasons why you are well suited to lead the quality culture on your tea
 
 Use data for:
 
-- Understand your customer and market fit
 - Gain insights, make informed decisions
+- Understand your customer
 - Learn how customers use your product and make predictions about them
 
 Data growth model
